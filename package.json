@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "request": "*",
-    "fs": "*",
+    "fs": "0.0.2",
     "temp": "*",
     "async": "*",
     "fluent-ffmpeg": "*"
